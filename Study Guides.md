@@ -1,8 +1,9 @@
 # Exam AI-100: Designing and Implementing an Azure AI Solution
 
 ## Slides
-- Module 1
-- Module 2
+- [Module 0](https://github.com/meet-bhagdev/ai-100/blob/master/Module%200.pptx)
+- [Module 1](https://github.com/meet-bhagdev/ai-100/blob/master/Module%201.pptx)
+- [Module 2](https://github.com/meet-bhagdev/ai-100/blob/master/Module%202.pptx)
 - [Module 3](https://github.com/meet-bhagdev/ai-100/blob/master/Module%203.pptx)
 
 ## Labs
@@ -48,4 +49,4 @@
 Thank you Stanislas Quastana for your [study guide](https://stanislas.io/2019/08/23/preparation-guide-for-microsoft-ai-100-designing-and-implementing-an-azure-ai-solution-azure-ai-engineer-associate-certification/)
 
 ## Questions
-Email me at meetb@microsoft.com 
+Email me at meetb@microsoft.com if you have any questions while preparing for the AI 100 exam
