@@ -11,6 +11,7 @@
 - [Process and Translate Speech](https://docs.microsoft.com/learn/paths/translate-speech-with-speech-services/)
 - [Intelligent Bots](https://docs.microsoft.com/learn/paths/create-bots-with-the-azure-bot-service/)
 - [Classify Images](https://docs.microsoft.com/learn/paths/classify-images-with-vision-services/)
+- [Library of labs](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol) 
 
 ## Practice Questions and Answers
 
@@ -39,5 +40,12 @@ https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-ana
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/ecommerce-retail-catalog-moderation
 
+## Study guides
+- https://medium.com/deep-ai/study-guide-for-microsoft-azure-ai-100-designing-and-implementing-an-azure-ai-solution-beta-b0b01effd2c6
+
+
 ## Credits
 Thank you Stanislas Quastana for your [study guide](https://stanislas.io/2019/08/23/preparation-guide-for-microsoft-ai-100-designing-and-implementing-an-azure-ai-solution-azure-ai-engineer-associate-certification/)
+
+## Questions
+Email me at meetb@microsoft.com if you have any questions while preparing for the AI 100 exam
