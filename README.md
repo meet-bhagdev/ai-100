@@ -16,29 +16,29 @@
 ## Practice Questions and Answers
 
 ## Important Links
-https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer
+- https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer
 
-https://docs.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally
+- https://docs.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally
 
-https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/tutorials/storage-lab-tutorial
+- https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/tutorials/storage-lab-tutorial
 
-https://docs.microsoft.com/en-us/azure/cognitive-services/face/tutorials/faceapiincsharptutorial
+- https://docs.microsoft.com/en-us/azure/cognitive-services/face/tutorials/faceapiincsharptutorial
 
-https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-use-apis
+- https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-use-apis
 
-https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function
+- https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function
 
-https://github.com/Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi
+- https://github.com/Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi
 
-https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing
+- https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing
 
-https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
+- https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
 
-https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-quickstart-intents-only
+- https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-quickstart-intents-only
 
-https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services
+- https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services
 
-https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/ecommerce-retail-catalog-moderation
+- https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/ecommerce-retail-catalog-moderation
 
 ## Study guides
 - https://medium.com/deep-ai/study-guide-for-microsoft-azure-ai-100-designing-and-implementing-an-azure-ai-solution-beta-b0b01effd2c6
