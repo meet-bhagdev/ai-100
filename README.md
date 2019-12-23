@@ -14,6 +14,8 @@
 - [Library of labs](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol) 
 
 ## Practice Questions and Answers
+- [Questions](https://github.com/meet-bhagdev/ai-100/blob/master/Questions.docx)
+- [Answers](https://github.com/meet-bhagdev/ai-100/blob/master/Answers.docx)
 
 ## Important Links
 - https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer
@@ -40,8 +42,6 @@
 
 - https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/ecommerce-retail-catalog-moderation
 
-## Study guides
-- https://medium.com/deep-ai/study-guide-for-microsoft-azure-ai-100-designing-and-implementing-an-azure-ai-solution-beta-b0b01effd2c6
 
 
 ## Credits
