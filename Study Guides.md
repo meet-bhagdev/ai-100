@@ -48,4 +48,4 @@
 Thank you Stanislas Quastana for your [study guide](https://stanislas.io/2019/08/23/preparation-guide-for-microsoft-ai-100-designing-and-implementing-an-azure-ai-solution-azure-ai-engineer-associate-certification/)
 
 ## Questions
-Email me at meetb@microsoft.com i
+Email me at meetb@microsoft.com 
