@@ -17,6 +17,7 @@
 ## Practice Questions and Answers
 - [Questions](https://github.com/meet-bhagdev/ai-100/blob/master/Questions.docx)
 - [Answers](https://github.com/meet-bhagdev/ai-100/blob/master/Answers.docx)
+  - **Note** I am still verifying the answers, let me know if you find mistakes
 
 ## Important Links
 - https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer
